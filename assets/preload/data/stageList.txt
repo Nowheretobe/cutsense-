@@ -1,8 +1,5 @@
+end
+overworldA
+overworldB
+overworldC
 stage
-spooky
-philly
-limo
-mall
-mallEvil
-school
-schoolEvil
